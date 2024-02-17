@@ -1,0 +1,6 @@
+
+# Esto son los archivo que deseo no enviar al repositorio
+.zip
+.png
+.ico
+.jpg
